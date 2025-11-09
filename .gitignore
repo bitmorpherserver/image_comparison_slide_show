@@ -1,0 +1,7 @@
+opencv_with_bg/
+opencv_without_bg/
+rembg_anime_with_bg/
+rembg_anime_without_bg/
+rembg_sam_without_bg/
+venv/
+.idea/
